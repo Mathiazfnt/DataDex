@@ -1,0 +1,22 @@
+# Secrets locaux
+.env
+.env.*
+!.env.example
+
+# Données générées
+/data/favorites.json
+/data/*.tmp
+
+# Binaires et fichiers de test
+*.exe
+*.test
+*.out
+/coverage.*
+/bin/
+/DataDex
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

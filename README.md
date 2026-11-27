@@ -1,5 +1,5 @@
 # DataDex
-Proket Ynov en collaboration avec gauhthierh
+Projet Ynov en collaboration avec gauhthierh
 
 The Star Wars API
 
